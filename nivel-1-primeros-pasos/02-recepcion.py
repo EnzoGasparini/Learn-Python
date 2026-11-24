@@ -6,4 +6,5 @@ El sistema tiene que saludarla por su nombre.
 """
 
 nombre = input("Por favor, introduce tu nombre: ")
+
 print(f"Hola {nombre}, bienvenido/a!")

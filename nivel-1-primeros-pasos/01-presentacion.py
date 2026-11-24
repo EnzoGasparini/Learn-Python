@@ -1,4 +1,5 @@
 # Consigna 01
+
 """
 Estás armando tu perfil de una app. 
 Mostrá en pantalla una frase que diga tu nombre, tu edad y tu ciudad.
