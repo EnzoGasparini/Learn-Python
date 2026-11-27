@@ -13,9 +13,9 @@ for i in range(len(productos)):
     if productos[i].lower() == consulta_producto.lower():
         if stock[i] == 0:
             print(f"Del producto {productos[i]}, no hay stock")
-            exit()
+
         else:
               print(f"El producto es {productos[i]} y su stock es {stock[i]}")
-              exit()
+        exit()
 
 print("El producto no existe")
