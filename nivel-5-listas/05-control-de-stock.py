@@ -17,3 +17,5 @@ for i in range(len(productos)):
         else:
               print(f"El producto es {productos[i]} y su stock es {stock[i]}")
               exit()
+
+print("El producto no existe")
